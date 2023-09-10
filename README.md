@@ -1,2 +1,15 @@
 # example-express-node-react-htmx
-Just an example repo to try the express, node, react and htmx stack
+
+Example project to show [node](https://nodejs.org/en) + [React](https://react.dev/) + [Express](https://expressjs.com/) + [HTMX](https://htmx.org/) stack.
+
+To install dependencies:
+
+```bash
+npm install
+```
+
+To run:
+
+```bash
+npm start
+```
